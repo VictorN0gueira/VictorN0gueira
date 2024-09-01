@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/victornogueirasantos/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://sulfuric-honeycrisp-b46.notion.site/Curr-culo-625b0200900a47b787175a7c1ea93950?pvs=4" target="_blank">
+  <a href="https://sulfuric-honeycrisp-b46.notion.site/Curr-culo-625b0200900a47b787175a7c1ea93950" target="_blank">
     <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
 </div>
