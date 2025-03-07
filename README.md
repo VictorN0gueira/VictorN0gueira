@@ -3,11 +3,11 @@
 </h1>
 
 <div align="center" >
-  - 🚀 Sou um jovem apaixonado por tecnologia e inovação, sempre em busca de novas maneiras de expandir meus conhecimentos e aplicar soluções criativas.
+  🚀 Sou um jovem apaixonado por tecnologia e inovação, sempre em busca de novas maneiras de expandir meus conhecimentos e aplicar soluções criativas.
   <br>
-  - 🎯 Meu foco principal é seguir na área de Análise de Sistemas, onde posso combinar meu amor por tecnologia com a análise crítica para resolver problemas complexos.
+  🎯 Meu foco principal é seguir na área de Análise de Sistemas, onde posso combinar meu amor por tecnologia com a análise crítica para resolver problemas complexos.
   <br>
-  - 🌐 No entanto, sou versátil e aberto a explorar outras áreas de atuação dentro do vasto universo tecnológico.
+  🌐 No entanto, sou versátil e aberto a explorar outras áreas de atuação dentro do vasto universo tecnológico.
 </div>
 
 <br><br>
