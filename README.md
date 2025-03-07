@@ -15,7 +15,7 @@
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=java,python,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,flutter,dart,vscode,github,git" />
 </div>
 
 <br><br>
