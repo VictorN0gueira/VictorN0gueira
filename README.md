@@ -2,12 +2,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+João+Victor!;" />
 </h1>
 
-<div align="center" >
-  🚀 Sou um jovem apaixonado por tecnologia e inovação, sempre em busca de novas maneiras de expandir meus conhecimentos e aplicar soluções criativas.
-  <br>
-  🎯 Meu foco principal é seguir na área de Análise de Sistemas, onde posso combinar meu amor por tecnologia com a análise crítica para resolver problemas complexos.
-  <br>
-  🌐 No entanto, sou versátil e aberto a explorar outras áreas de atuação dentro do vasto universo tecnológico.
+<div align="center">
+  <p>🚀 <strong> Apaixonado por tecnologia e inovação</strong>, estou sempre em busca de novas formas de expandir meus conhecimentos e criar soluções criativas.</p>
+  <p>🎯 <strong>Foco em Análise de Sistemas</strong>: combino minha paixão pela tecnologia com a análise crítica para resolver problemas complexos.</p>
+  <p>🌐 <strong>Versatilidade e curiosidade</strong>: aberto a explorar diferentes áreas dentro do vasto universo tecnológico.</p>
 </div>
 
 <br><br>
