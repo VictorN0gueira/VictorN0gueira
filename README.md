@@ -1,20 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1035,100:EA4B71&height=170&section=header&text=Victor%20Nogueira&fontSize=55&fontColor=ffffff&fontAlignY=60&desc=Frontend%20Developer%20%7C%20Automation%20Specialist%20%7C%20AI%20Enthusiast&descAlignY=80&descSize=16&descColor=EA4B71&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1035,100:EA4B71&height=180&section=header&text=Victor%20Nogueira&fontSize=58&fontColor=ffffff&fontAlignY=58&desc=Frontend%20Developer%20%E2%80%A2%20Automation%20Specialist%20%E2%80%A2%20AI%20Enthusiast&descAlignY=78&descSize=16&descColor=EA4B71&animation=twinkling" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=65&duration=3500&pause=1000&color=EA4B71&lines=Olá!+Eu+sou+Victor+Nogueira+👋;Desenvolvedor+Frontend+💻;Especialista+em+Automações+⚡;Entusiasta+de+IA+%26+Machine+Learning+🤖;Transformando+ideias+em+código+🚀" />
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=620&height=65&duration=3500&pause=1000&color=EA4B71&lines=Ol%C3%A1!+Eu+sou+Victor+Nogueira+%F0%9F%91%8B;Desenvolvedor+Frontend+%F0%9F%92%BB;Especialista+em+Automa%C3%A7%C3%B5es+%E2%9A%A1;Entusiasta+de+IA+%26+Machine+Learning+%F0%9F%A4%96;Transformando+ideias+em+c%C3%B3digo+%F0%9F%9A%80" />
 
 <br/>
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/qZgHBlenHa1zKqy6Zn/giphy.gif" alt="coding gif"/>
-</div>
+<img height="200" src="https://media.giphy.com/media/qZgHBlenHa1zKqy6Zn/giphy.gif" alt="coding gif"/>
 
 <br/>
-
-<div align="center">
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victornogueirasantos)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://me.victornogueira.tech/)
@@ -88,15 +83,37 @@ const victor = {
 
 ---
 
+## 🐍 A cobrinha comendo minhas contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorN0gueira/VictorN0gueira/output/github-snake-pink.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorN0gueira/VictorN0gueira/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/VictorN0gueira/VictorN0gueira/output/github-snake-pink.svg">
+</picture>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorN0gueira&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=EA4B71&icon_color=EA4B71&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorN0gueira&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=EA4B71&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorN0gueira&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=EA4B71&icon_color=EA4B71&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorN0gueira&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=&hide=ruby&bg_color=0d1117&title_color=EA4B71&text_color=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=VictorN0gueira&theme=radical&hide_border=true&background=0d1117&ring=EA4B71&fire=EA4B71&currStreakLabel=EA4B71" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorN0gueira&theme=radical&hide_border=true&background=0d1117&ring=EA4B71&fire=EA4B71&currStreakLabel=EA4B71&sideLabels=EA4B71&dates=ffffff" />
+</div>
+
+---
+
+## 🏆 Troféus
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VictorN0gueira&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 
 ---
@@ -104,7 +121,7 @@ const victor = {
 ## 📈 Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorN0gueira&theme=tokyo-night&bg_color=0d1117&color=EA4B71&line=EA4B71&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorN0gueira&theme=tokyo-night&bg_color=0d1117&color=EA4B71&line=EA4B71&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -113,13 +130,12 @@ const victor = {
 
 ### 💬 Frase favorita
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Automatizar%20o%20presente%2C%20construir%20o%20futuro&author=Victor%20Nogueira" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Automatizar%20o%20presente%2C%20construir%20o%20futuro&author=Victor%20Nogueira" />
 
+<br/>
 <br/>
 
 **Obrigado pela visita!** ⭐ Se curtiu algum projeto, deixa uma estrela!
-
-<br/>
 
 </div>
 
