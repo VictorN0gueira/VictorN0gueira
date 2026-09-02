@@ -100,8 +100,8 @@ const victor = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorN0gueira&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=EA4B71&icon_color=EA4B71&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorN0gueira&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=&hide=ruby&bg_color=0d1117&title_color=EA4B71&text_color=ffffff" />
+  <img height="180em" src="https://raw.githubusercontent.com/VictorN0gueira/VictorN0gueira/output-stats/stats.svg" />
+  <img height="180em" src="https://raw.githubusercontent.com/VictorN0gueira/VictorN0gueira/output-stats/top-langs.svg" />
 </div>
 
 <div align="center">
@@ -113,7 +113,7 @@ const victor = {
 ## 🏆 Troféus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VictorN0gueira&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <img src="https://raw.githubusercontent.com/VictorN0gueira/VictorN0gueira/output-trophy/trophy.svg" />
 </div>
 
 ---
@@ -121,19 +121,12 @@ const victor = {
 ## 📈 Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorN0gueira&theme=tokyo-night&bg_color=0d1117&color=EA4B71&line=EA4B71&point=ffffff&area=true&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/VictorN0gueira/VictorN0gueira/output-activity-graph/activity-graph.svg" />
 </div>
 
 ---
 
 <div align="center">
-
-### 💬 Frase favorita
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Automatizar%20o%20presente%2C%20construir%20o%20futuro&author=Victor%20Nogueira" />
-
-<br/>
-<br/>
 
 **Obrigado pela visita!** ⭐ Se curtiu algum projeto, deixa uma estrela!
 
